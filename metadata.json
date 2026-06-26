@@ -1,0 +1,6 @@
+{
+  "name": "Universal Pet Healthcare Book & Passport Digitizer",
+  "description": "Scan, digitize, and translate physical pet healthcare books, passports, and vaccine logs from any country. Manage multiple pets, verify international travel compliance, and track medical alerts in one app.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
